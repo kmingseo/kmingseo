@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=%23669966&height=200&section=header&text=Hi🐶&desc=This%20is%20ming's%20zone%20&fontSize=70&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=%23669966&height=160&section=header&text=Hi🐶&desc=This%20is%20ming's%20zone%20&fontSize=70&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 <h3 align="center">😈 Tech Stack 😈</h3>
 <p align="center">
