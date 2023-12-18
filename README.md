@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=759c63&height=300§ion=header&text=Hi!🐶&desc=This%20is%20ming's%20zone.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=_759c63&height=300§ion=header&text=Hi!🐶&desc=This%20is%20ming's%20zone.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 
 
