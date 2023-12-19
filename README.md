@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=%23669966&height=160&section=header&text=Hi😈&desc=This%20is%20ming's%20zone%20&fontSize=50&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=%23669966&height=160&section=header&text=Hi😈&desc=This%20is%20ming's%20zone%20&fontSize=50&descSize=30&fontColor=ffffff&fontAlignY=40) 
 
-
-
-
+<br/>
 
 <h3 align="center">😈 Tech Stack 😈</h3>
 <p align="center">
@@ -10,9 +8,7 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 </p>
 
-
-
-
+<br/><br/>
 
 <h3 align="center">😈 My Github Stats 😈</h3>
 <div align="center">
