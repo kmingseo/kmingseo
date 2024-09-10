@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=%23669966&height=160&section=header&text=Hi😈&desc=This%20is%20ming's%20zone%20&fontSize=50&descSize=30&fontColor=ffffff&fontAlignY=40) 
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&height=160&section=header&text=&desc=&fontSize=50&descSize=30&fontColor=000000&fontAlignY=40)
+
 
 <br/>
 
@@ -10,7 +11,7 @@
 
 <br/>
 
-<h3 align="center">😈 My Github Stats 😈</h3>
+<h3 align="center"> My Github Stats </h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmingseo&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
