@@ -3,11 +3,11 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34">
 </p>
 
 <br/>
