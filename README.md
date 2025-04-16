@@ -16,7 +16,11 @@
 <br/>
 
 <h3 align="center"> Ming's Github Stats </h3>
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmingseo&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kmingseo&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight" height="180"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmingseo&layout=compact&theme=tokyonight" height="180"/>
+  </a>
+</p>
