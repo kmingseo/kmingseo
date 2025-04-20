@@ -24,3 +24,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmingseo&layout=compact&theme=tokyonight" height="180"/>
   </a>
 </p>
+
+
+<img src="https://ghchart.rshah.org/737268/kmingseo" />
