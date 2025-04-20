@@ -29,14 +29,14 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kmingseo&utm_content=farm" style="margin-right: 10px;">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kmingseo&utm_content=farm" style="margin-right: 5px;">
       <img
         src="https://render.gitanimals.org/farms/kmingseo"
         width="600"
         height="200"
       />
     </a>
-    <a href="https://solved.ac/minxx5" style="margin-left: -5px;">
+    <a href="https://solved.ac/minxx5" style="margin-left: -30px;">
       <img
         src="http://mazassumnida.wtf/api/generate_badge?boj=minxx5"
         alt="Solved.ac Profile"
@@ -44,14 +44,6 @@
     </a>
   </div>
 </p>
-
-
-
-
-
-
-
-
 
 
 </div>
