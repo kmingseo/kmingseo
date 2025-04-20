@@ -1,5 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=100&section=header&text=Ming's%20zone&&fontColor=c8c5c5&fontSize=50&animation=blink" />
+</div>
 
-## Ming's Zone
 
 <h3 align="center"> 🖥️ Tech Stack </h3>
 <p align="center">
@@ -31,7 +33,7 @@
 <img
   src="https://render.gitanimals.org/farms/kmingseo"
   width="600"
-  height="300"
+  height="200"
 />
 </a>
 </div>
