@@ -17,7 +17,7 @@
 
 <br/>
 
-<h3 align="center"> Ming's Github Stats </h3>
+<h2 align="center"> Ming's Github Stats </h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=kmingseo&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight" height="180"/>
