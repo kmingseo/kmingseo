@@ -4,7 +4,7 @@
 
 <br/>
 
-```
+```c++
 class Ming {
     private:
         string job;
