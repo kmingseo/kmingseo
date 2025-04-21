@@ -1,5 +1,22 @@
 # Ming's zone 😈
 
+### ✔️ About me ... !!
+
+```c++
+class Ming {
+    private:
+        string job ;
+        string whatIDo ;
+    
+    public:
+        Ming() {
+            job = "Computer Science and Engineering student in CBNU" ;
+            whatIDo = "undergraduate research assitant @ BML-lab" ;
+        }
+    };
+```
+
+
 ### 📌 study list 
 
 - docker
@@ -26,21 +43,7 @@
 
 <br/>
 
-```c++
-class Ming {
-    private:
-        string job ;
-        string whatIDo ;
-    
-    public:
-        Ming() {
-            job = "Computer Science and Engineering student in CBNU" ;
-            whatIDo = "undergraduate research assitant @ BML-lab" ;
-        }
-    };
-```
 
-<br/>
 
 
 <h2 align="center"> Ming's Github Stats </h2>
