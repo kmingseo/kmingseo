@@ -1,6 +1,14 @@
 # Ming's zone 😈
 
+### 📌 study list 
 
+- docker
+- algorithm
+- ML
+- Deep Learning based Recommender Systems
+
+
+---
 
 <br/>
 
