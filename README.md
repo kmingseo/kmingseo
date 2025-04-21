@@ -2,6 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=100&section=header&text=Ming's%20zone&&fontColor=c8c5c5&fontSize=50&animation=blink" />
 </div>
 
+<br/>
+
+```
+class Ming {
+    private:
+        string job;
+        string whatIDo;
+    
+    public:
+        Ming() {
+            job = "Computer Science and Engineering student in CBNU";
+            whatIDo = "undergraduate research assitant @ BML-lab";
+        }
+    };
+```
 
 <h3 align="center"> 🖥️ Tech Stack </h3>
 <p align="center">
