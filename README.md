@@ -1,18 +1,6 @@
 # Ming's zone 😈
 
-```c++
-class Ming {
-    private:
-        string job ;
-        string whatIDo ;
-    
-    public:
-        Ming() {
-            job = "Computer Science and Engineering student in CBNU" ;
-            whatIDo = "undergraduate research assitant @ BML-lab" ;
-        }
-    };
-```
+
 
 <br/>
 
@@ -29,6 +17,23 @@ class Ming {
 </p>
 
 <br/>
+
+```c++
+class Ming {
+    private:
+        string job ;
+        string whatIDo ;
+    
+    public:
+        Ming() {
+            job = "Computer Science and Engineering student in CBNU" ;
+            whatIDo = "undergraduate research assitant @ BML-lab" ;
+        }
+    };
+```
+
+<br/>
+
 
 <h2 align="center"> Ming's Github Stats </h2>
 <p align="center">
@@ -58,6 +63,7 @@ class Ming {
     />
   </a>
 </p>
+
 
 
 
