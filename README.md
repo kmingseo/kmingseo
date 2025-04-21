@@ -1,22 +1,20 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height80&section=header&text=Ming's%20zone&&fontColor=c8c5c5&fontSize=30&animation=blink" />
-</div>
-
-<br/>
+# Ming's zone 😈
 
 ```c++
 class Ming {
     private:
-        string job;
-        string whatIDo;
+        string job ;
+        string whatIDo ;
     
     public:
         Ming() {
-            job = "Computer Science and Engineering student in CBNU";
-            whatIDo = "undergraduate research assitant @ BML-lab";
+            job = "Computer Science and Engineering student in CBNU" ;
+            whatIDo = "undergraduate research assitant @ BML-lab" ;
         }
     };
 ```
+
+<br/>
 
 <h3 align="center"> 🖥️ Tech Stack </h3>
 <p align="center">
