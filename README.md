@@ -5,13 +5,19 @@
 ```c++
 class Ming {
     private:
+        int age ;
         string job ;
         string whatIDo ;
+        list<string> interest ;
+        list<string> welcome ;
     
     public:
         Ming() {
+            age = 22 ;
             job = "Computer Science and Engineering student in CBNU" ;
-            whatIDo = "undergraduate research assitant @ BML-lab" ;
+            whatIDo = "undergraduate research assistant @ BML-lab" ;
+            interest = {"Collaboration", "Competition"} ;
+            welcome = {"Collaboration", "Competitions"} ;
         }
     };
 ```
