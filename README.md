@@ -15,9 +15,11 @@ class Ming {
             age = 22 ;
             job = "Computer Science and Engineering student in CBNU" ;
             whatIDo = "undergraduate research assistant @ BML-lab" ;
+
             //😽!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             WELCOME = {"COLLABORATION", "COMPETITIONS"};
             //😽!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
         }
     };
 ```
