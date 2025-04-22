@@ -8,7 +8,6 @@ class Ming {
         int age ;
         string job ;
         string whatIDo ;
-        list<string> interest ;
         list<string> WELCOME ;
     
     public:
@@ -16,8 +15,9 @@ class Ming {
             age = 22 ;
             job = "Computer Science and Engineering student in CBNU" ;
             whatIDo = "undergraduate research assistant @ BML-lab" ;
-            interest = {"Collaboration", "Competition"} ;
+            //😽!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             WELCOME = {"COLLABORATION", "COMPETITIONS"};
+            //😽!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
         }
     };
 ```
