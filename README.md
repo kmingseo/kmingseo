@@ -9,7 +9,7 @@ class Ming {
         string job ;
         string whatIDo ;
         list<string> interest ;
-        list<string> welcome ;
+        list<string> WELCOME ;
     
     public:
         Ming() {
@@ -17,7 +17,7 @@ class Ming {
             job = "Computer Science and Engineering student in CBNU" ;
             whatIDo = "undergraduate research assistant @ BML-lab" ;
             interest = {"Collaboration", "Competition"} ;
-            welcome = {"Collaboration", "Competitions"} ;
+            WELCOME = {"COLLABORATION", "COMPETITIONS"};
         }
     };
 ```
