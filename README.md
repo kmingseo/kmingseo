@@ -64,23 +64,7 @@ class Ming {
 </p>
 
 
-<p align="center" style="margin:0; padding:0; font-size:0;">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kmingseo&utm_content=farm"
-     style="display:inline-block; vertical-align:middle;">
-    <img
-      src="https://render.gitanimals.org/farms/kmingseo"
-      width="400"
-      height="200"
-    />
-  </a>
-  <a href="https://solved.ac/minxx5"
-     style="display:inline-block; vertical-align:middle;">
-    <img
-      src="http://mazassumnida.wtf/api/generate_badge?boj=minxx5"
-      alt="Solved.ac Profile"
-    />
-  </a>
-</p>
+
 
 
 
